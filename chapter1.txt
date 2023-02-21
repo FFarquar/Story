@@ -1,1 +1,3 @@
 Some text in here. I modified chapter 1 with a aliaen theme
+
+I now added a change to deal with the 2nd plot change
